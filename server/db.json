@@ -1,0 +1,60 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "name": "Hublot Classics TITANIUM",
+      "quantity": 1,
+      "stock": 20,
+      "description": "Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho",
+      "image": "https://www.hublot.com/sites/default/files/styles/watch_item_desktop_1x_scale_no_crop_600_6000_/public/2020-06/Classic-Fusion-Titanium-on-Rubber-42-mm_0.png?itok=AhYROabB",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Rolex Submariner",
+      "quantity": 1,
+      "stock": 15,
+      "description": "A classic diving watch with exceptional craftsmanship and performance.",
+      "image": "https://content.rolex.com/dam/2021/upright-bba-with-shadow/m126610ln-0001.png",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "name": "Omega Speedmaster",
+      "quantity": 1,
+      "stock": 10,
+      "description": "Known as the Moonwatch, this timepiece has a storied history with space exploration.",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.DtxeuXfJmUSPz0wPsb4vywHaJp&pid=Api&P=0&h=180",
+      "price": 40
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "name": "Hublot Classics TITANIUM",
+      "quantity": 44,
+      "stock": 20,
+      "description": "Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho Dong ho",
+      "image": "https://www.hublot.com/sites/default/files/styles/watch_item_desktop_1x_scale_no_crop_600_6000_/public/2020-06/Classic-Fusion-Titanium-on-Rubber-42-mm_0.png?itok=AhYROabB",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Rolex Submariner",
+      "quantity": 6,
+      "stock": 15,
+      "description": "A classic diving watch with exceptional craftsmanship and performance.",
+      "image": "https://content.rolex.com/dam/2021/upright-bba-with-shadow/m126610ln-0001.png",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "name": "Omega Speedmaster",
+      "quantity": 14,
+      "stock": 10,
+      "description": "Known as the Moonwatch, this timepiece has a storied history with space exploration.",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.DtxeuXfJmUSPz0wPsb4vywHaJp&pid=Api&P=0&h=180",
+      "price": 40
+    }
+  ]
+}
